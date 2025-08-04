@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # OrangeHRM Playwright Automation Project
 
 This project automates core test scenarios of the [OrangeHRM](https://opensource-demo.orangehrmlive.com/) web application using **Playwright**.
@@ -58,6 +57,8 @@ orangehrm-playwright/
 
 **Pratik Lal Vishwakarma**  
 [LinkedIn](https://www.linkedin.com/in/pratik-lal-vishwakarma)
-=======
-# orangehrm-playwright
->>>>>>> fb75636ee6fec9e12c2a7427200d576a8fb9b3ed
+
+## 📄 Additional Files
+
+- [OrangeHRM_Bug_Report.docx](OrangeHRM_Bug_Report.docx): Detailed manual bug report
+- [OrangeHRM_TestCases.xlsx](OrangeHRM_TestCases.xlsx): 50+ manual test cases with steps, expected & actual results, bug IDs

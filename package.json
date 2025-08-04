@@ -1,0 +1,13 @@
+{
+  "name": "orangehrm-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.41.1"
+  }
+}
